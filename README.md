@@ -12,6 +12,7 @@ Step4: Encode categorical data: Convert categorical column in the dataset to num
 Step5: Split the dataset: Split the data into 80% training dataset and 20% test dataset
 Step6: Standardize data: Standardize training and test datasets
 Task1: Perform Linear Regression
+
 Task1.1: Perform Linear Regression on training data
 
 Task1.2: Predict output for test dataset using the fitted model
@@ -19,6 +20,7 @@ Task1.2: Predict output for test dataset using the fitted model
 Task1.3: Print root mean squared error (RMSE) from Linear Regression
 
 Task2: Bonus exercise: Perform Linear Regression with one independent variable
+
 Task2.1: Extract just the median_income column from the independent variables (from X_train and X_test)
 
 Task2.2: Perform Linear Regression to predict housing values based on median_income
